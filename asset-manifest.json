@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/collide-app/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/collide-app/static/js/main.15c215ba.chunk.js",
-    "main.js.map": "/collide-app/static/js/main.15c215ba.chunk.js.map",
+    "main.js": "/collide-app/static/js/main.7a664aba.chunk.js",
+    "main.js.map": "/collide-app/static/js/main.7a664aba.chunk.js.map",
     "runtime-main.js": "/collide-app/static/js/runtime-main.65e64508.js",
     "runtime-main.js.map": "/collide-app/static/js/runtime-main.65e64508.js.map",
-    "static/js/2.939c4e51.chunk.js": "/collide-app/static/js/2.939c4e51.chunk.js",
-    "static/js/2.939c4e51.chunk.js.map": "/collide-app/static/js/2.939c4e51.chunk.js.map",
+    "static/js/2.ccacb824.chunk.js": "/collide-app/static/js/2.ccacb824.chunk.js",
+    "static/js/2.ccacb824.chunk.js.map": "/collide-app/static/js/2.ccacb824.chunk.js.map",
     "static/js/3.6e64b43e.chunk.js": "/collide-app/static/js/3.6e64b43e.chunk.js",
     "static/js/3.6e64b43e.chunk.js.map": "/collide-app/static/js/3.6e64b43e.chunk.js.map",
     "index.html": "/collide-app/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/collide-app/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.939c4e51.chunk.js.LICENSE.txt": "/collide-app/static/js/2.939c4e51.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/collide-app/static/media/logo.6ce24c58.svg"
+    "static/js/2.ccacb824.chunk.js.LICENSE.txt": "/collide-app/static/js/2.ccacb824.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.65e64508.js",
-    "static/js/2.939c4e51.chunk.js",
+    "static/js/2.ccacb824.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.15c215ba.chunk.js"
+    "static/js/main.7a664aba.chunk.js"
   ]
 }
